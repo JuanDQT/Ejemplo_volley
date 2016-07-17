@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Ejemplos_Volley</string>
+
+    <string name="btn_simple">Recibir un unico valor</string>
+    <string name="btn_objeto">Recibir un objeto</string>
+    <string name="btn_array">Recibir un array de objetos</string>
+    <string name="btn_imagen">Recibir una imagen</string>
 </resources>
